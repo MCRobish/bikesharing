@@ -27,7 +27,8 @@ It appears that most of the citibike use is through subscribers during the week.
 Most trips were completed by customers in their late 20s and early 30s. As age increases past those time frames, usage rates decline. There was a spike of unknown gender usage at 50 years of age, which appears to be an outlier or data error and was removed from the dataset. 
 
 ## Summary
+
 The highest usage rates in New York City are among male customers around 30 years old. Most of these users are subscribers that are commuting to and from work. This should translate well to Des Moines because the demographic is not unique to New York. An additional analysis that should be completed prior to investing is the usage rates in the winter months. Because both New York and Des Moines have cold winters, it is important to understand how much business will decrease. It would also be good to understand how maintenace costs will increase because of freezing and wet weather in order to decide whether the bikes should be stored in an indoor warehouse during those months. 
 
 
-[Link to Tableau Public]  (https://public.tableau.com/app/profile/mary.cate.robish/viz/Citibike_challenge_16632849574360/CityBikeAnalysis?publish=yes)
+[Link to Tableau Public](https://public.tableau.com/app/profile/mary.cate.robish/viz/Citibike_challenge_16632849574360/CityBikeAnalysis?publish=yes)
