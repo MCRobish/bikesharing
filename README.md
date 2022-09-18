@@ -16,7 +16,7 @@ Station locations should be set up so that rides can be shorter than an hour in 
 
 **Trip Hours and Days**
 
-The highest usage times in NYC were around 8 am and 5 pm, which is typically the start and end of work during the weekdays. Both men and women follow this pattern. The weekends showed more consistent usage throughout the afternoons, indicating tourist usage and potentially more people biking for recreational reasons. 
+The highest usage times in NYC were around 8 am and 5 pm, which is typically the start and end of work during the weekdays. Both men and women follow this pattern. The weekends showed more consistent usage throughout the afternoons, indicating tourist usage and potentially more people biking for recreational reasons. Usage is lowest in the early morning hours (3 am), so that is a good time to perform maintenance on the bikes. 
 
 **Trip Count by User Type** 
 
